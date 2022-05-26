@@ -1,0 +1,8 @@
+INDEX VERSION 1.4+C:\Users\ratho\Desktop\Customer Relationship managment\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+214614851.index
+3091251168.index
+3381857943.index
+744426140.index
+2568753096.index
+2415720199.index
+711880519.index
